@@ -1,25 +1,27 @@
-Book title
+Probability Course
 Author
 other info
 
-# Chapter 1
+# Chapter 1. Basic Concepts
 
-## Introduction 1.1
-### Topic 1
-Concept_1
-Concept_2
-### Topic 2
-Concept_3
-Concept_4
+## 1.1 Introduction 
+### 1.1.0 What is Probability?
+Probability
+Fair Coin
+Brian Veitch Video on Tossing a Fair Coin
+Stanford Encyclopedia of Philosophy Entry on Interpretations of Probability
 
-## What should we do? 1.2
-### Topic 1
-Concept_5
-Concept_6
-### Topic 2
+### 1.1.1 Example
 
+## 1.2 Review of Set Theory
+### 1.2.1 Venn Diagrams
+Venn Diagrams
+### 1.2.2 Set Operations
+Union
 
-# Chapter 2
+# 2. Combinatorics: Counting Methods
 ## Topic 1
 Concept_7
 Concept_8
+
+
