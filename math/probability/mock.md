@@ -7,8 +7,6 @@ other info
 ### 1.1.0 What is Probability?
 Probability
 Fair Coin
-Brian Veitch Video on Tossing a Fair Coin
-Stanford Encyclopedia of Philosophy Entry on Interpretations of Probability
 ### 1.1.1 Example
 ## 1.2 Review of Set Theory
 ### 1.2.1 Venn Diagrams
