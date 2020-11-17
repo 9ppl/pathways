@@ -12,6 +12,7 @@ Infinite Series [Prerequisite]
 Sums with Multiple Indices [Prerequisite]
 Countable and Uncountable Sets [Prerequisite]
 ### L01.1: Lecture Overview
+Lecture overview
 ### L01.2: Sample Space
 Sample Space
 Event
@@ -19,6 +20,8 @@ Discrete Random Variable
 Mutually Exclusive
 Collectively Exhaustive
 ### L01.3 Sample Space Examples
+Sample Space Example 1
+Sample Space Example 2
 ### L01.4 Probability Axioms
 Probability Laws
 Axiom
