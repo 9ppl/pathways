@@ -6,11 +6,11 @@ Prerequisites: Single Variable Calculus, Multivariable Calculus
 
 # Unit I: Probability Models and Discrete Random Variables
 ## Lecture 1: Probability Models and Axioms
-Sets and Functions [Prerequisite]
-Venn Diagrams [Prerequisite]
-Infinite Series [Prerequisite]
-Sums with Multiple Indices [Prerequisite]
-Countable and Uncountable Sets [Prerequisite]
+Sets and Functions
+Venn Diagrams
+Infinite Series
+Sums with Multiple Indices
+Countable and Uncountable Sets
 ### L01.1: Lecture Overview
 Lecture overview
 ### L01.2: Sample Space
